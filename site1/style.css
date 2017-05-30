@@ -3,4 +3,17 @@ body{
 	color: #fff;
 	background-color: #61122f;
 	font-family: Oxygen;
+	font-family: 'Oxygen', sans-serif;
+}
+#header-nav {
+	background-color: #f6b319;
+	border-radius : 20;
+	border: 10;
+}
+#logo-img {
+
+	background:url(F:\Wallpapers\Wallpapers) no-repeat;
+	width: 150px;
+	height: 150px;
+	margin: 10px 15px 10px 0;
 }
